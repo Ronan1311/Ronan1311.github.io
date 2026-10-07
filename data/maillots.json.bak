@@ -1,0 +1,6 @@
+[
+  {"id":"srfc-dom-2425","categorie":"SRFC","info":"Maillot SRFC Domicile 24/25","flocageNom":"ALIDU SEIDU","flocageNumero":36,"photoAvant":"images/srfc-dom-2425-avant.jpg","photoArriere":"images/srfc-dom-2425-arriere.jpg","lieuAchat":"Boutique du Roazhon Park","prix":90,"noteSur5":4},
+  {"id":"kc-dom-2025","categorie":"KC","info":"Maillot Karmine Corp Domicile 2025","flocageNom":"","flocageNumero":0,"photoAvant":"images/kc-dom-2025-avant.jpg","photoArriere":"images/kc-dom-2025-arriere.jpg","lieuAchat":"Boutique KC","prix":85,"noteSur5":5},
+  {"id":"real-dom-2425","categorie":"REAL","info":"Maillot Real Madrid Domicile 24/25","flocageNom":"MBAPPÉ","flocageNumero":9,"photoAvant":"images/real-dom-2425-avant.jpg","photoArriere":"images/real-dom-2425-arriere.jpg","lieuAchat":"Vinted","prix":60,"noteSur5":3},
+  {"id":"srfc-rennes","categorie":"SRFC","info":"Maillot Rennes","flocageNom":"Garnier","flocageNumero":13,"photoAvant":"","photoArriere":"","lieuAchat":"Boutique","prix":13,"noteSur5":3}
+]
